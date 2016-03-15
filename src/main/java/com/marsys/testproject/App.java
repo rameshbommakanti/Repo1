@@ -15,5 +15,6 @@ public class App {
     public static void main(String ar[]){
         
         System.out.println("welcome");
+        System.out.println("intial code in barachd");
     }
 }
