@@ -16,5 +16,6 @@ public class App {
         
         System.out.println("welcome");
         System.out.println("intial code in barachd");
+         System.out.println("intial code in barachd");
     }
 }
